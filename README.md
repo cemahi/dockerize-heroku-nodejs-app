@@ -1,4 +1,4 @@
-# dockerize-heroku-nodejs-app
+# dockerize-nodejs-app
 
 For creating a docker image
 docker build --tag node-rest-api
